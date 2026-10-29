@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/work</loc></url>
+  <url><loc>https://example.com/work/medi-vision</loc></url>
+  <url><loc>https://example.com/work/skillbridgeai</loc></url>
+  <url><loc>https://example.com/work/bhoomi-x</loc></url>
+  <url><loc>https://example.com/work/authlab</loc></url>
+  <url><loc>https://example.com/work/playbook-studio</loc></url>
+  <url><loc>https://example.com/work/template-hive</loc></url>
+  <url><loc>https://example.com/about</loc></url>
+  <url><loc>https://example.com/skills</loc></url>
+  <url><loc>https://example.com/credentials</loc></url>
+  <url><loc>https://example.com/contact</loc></url>
+</urlset>

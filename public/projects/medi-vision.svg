@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-label="Medi Vision visual treatment">
+  <rect width="1200" height="1500" fill="#1c1d18"/>
+  <rect x="72" y="72" width="1056" height="1356" fill="none" stroke="#8A8C68" stroke-width="1"/>
+  <circle cx="600" cy="680" r="220" fill="none" stroke="#F4EFE4" stroke-width="1.2"/>
+  <circle cx="600" cy="680" r="140" fill="none" stroke="#8A8C68" stroke-width="0.8"/>
+  <circle cx="600" cy="680" r="40" fill="#8A8C68"/>
+  <path d="M600 420 V940 M360 680 H840" stroke="#C7C7C7" stroke-width="0.5" opacity="0.5"/>
+  <text x="96" y="140" fill="#8A8C68" font-family="Georgia, serif" font-size="22" letter-spacing="8">PLATE 01</text>
+  <text x="96" y="1380" fill="#F4EFE4" font-family="Georgia, serif" font-size="48">Medi Vision</text>
+  <text x="96" y="1424" fill="#C7C7C7" font-family="Arial, sans-serif" font-size="18">Touchless image review · prototype</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img">
+  <rect width="1200" height="1500" fill="#E8E1D5"/>
+  <g fill="none" stroke="#151515" stroke-width="1">
+    <polygon points="600,260 860,410 860,720 600,870 340,720 340,410"/>
+    <polygon points="600,410 740,490 740,650 600,730 460,650 460,490"/>
+  </g>
+  <circle cx="600" cy="570" r="28" fill="#8A8C68"/>
+  <text x="110" y="150" fill="#8A8C68" font-family="Georgia, serif" font-size="22" letter-spacing="8">PLATE 06</text>
+  <text x="110" y="1360" fill="#151515" font-family="Georgia, serif" font-size="48">Template Hive</text>
+  <text x="110" y="1404" fill="#252522" font-family="Arial, sans-serif" font-size="18">Templates and brand systems</text>
+</svg>

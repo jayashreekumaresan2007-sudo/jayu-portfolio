@@ -1,0 +1,33 @@
+@theme {
+  --color-charcoal: #151515;
+  --color-ink: #1e1f1c;
+  --color-surface: #252522;
+  --color-ivory: #f4efe4;
+  --color-ivory-dim: #e8e1d5;
+  --color-olive: #8a8c68;
+  --color-gold: #a58a4a;
+  --color-burgundy: #581f2a;
+  --color-silver: #c7c7c7;
+  --font-display: "Cormorant Garamond", "Playfair Display", "Times New Roman", serif;
+  --font-sans: "Outfit", system-ui, sans-serif;
+  --font-signature: "Alex Brush", "Cormorant Garamond", cursive, serif;
+  --shadow-glass: 0 18px 50px rgba(0, 0, 0, 0.28);
+}
+
+:root {
+  --bg: #151515;
+  --bg-elevated: #252522;
+  --fg: #f4efe4;
+  --fg-muted: #c7c7c7;
+  --fg-soft: rgba(244, 239, 228, 0.62);
+  --border: rgba(199, 199, 199, 0.18);
+  --accent: #8a8c68;
+  --accent-gold: #a58a4a;
+  --accent-burgundy: #581f2a;
+  --accent-strong: #b5654a;
+  --focus: #f4efe4;
+  --glass: rgba(244, 239, 228, 0.06);
+  --glass-strong: rgba(21, 21, 21, 0.72);
+  --overlay: rgba(21, 21, 21, 0.55);
+  --shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+}

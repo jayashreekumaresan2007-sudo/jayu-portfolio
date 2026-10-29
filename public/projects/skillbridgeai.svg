@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img">
+  <rect width="1200" height="1500" fill="#F4EFE4"/>
+  <rect x="80" y="80" width="1040" height="1340" fill="none" stroke="#151515" stroke-width="1"/>
+  <path d="M180 1180 L420 420 L640 860 L860 320 L1020 980" fill="none" stroke="#8A8C68" stroke-width="2"/>
+  <circle cx="420" cy="420" r="10" fill="#151515"/>
+  <circle cx="640" cy="860" r="10" fill="#151515"/>
+  <circle cx="860" cy="320" r="10" fill="#151515"/>
+  <text x="110" y="160" fill="#8A8C68" font-family="Georgia, serif" font-size="22" letter-spacing="8">PLATE 02</text>
+  <text x="110" y="1360" fill="#151515" font-family="Georgia, serif" font-size="48">SkillBridgeAI</text>
+  <text x="110" y="1404" fill="#252522" font-family="Arial, sans-serif" font-size="18">Education and career guidance · concept</text>
+</svg>

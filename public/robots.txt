@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the sitemap URL after setting VITE_SITE_URL and deploying.
+Sitemap: https://example.com/sitemap.xml
